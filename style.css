@@ -1,0 +1,15 @@
+.mainBox{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+.mainContainer{
+    width: 500px;
+    height: 800px;
+    text-align: center;
+    padding: 20px;
+
+}
